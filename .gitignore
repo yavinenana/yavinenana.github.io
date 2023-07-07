@@ -1,23 +1,55 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+.turbo/
+reports/
 
 # dependencies
 /node_modules
+/infra/node_modules
+/infra/Pulumi.*.yaml
 /.pnp
 .pnp.js
-
+/infra/awsguard
+/infra/policy-pack
+/infra/policy-config.json
 # testing
 /coverage
+
+dist
+# next.js
+/.next/
+/out/
 
 # production
 /build
 
 # misc
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+*.pem
 
+# debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+.env
+.npmrc
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+#public files
+/public
+/.vscode
+/package-lock.json
+/cypress/videos/
+/styles/tokens.scss
+/.yalc
+
+yarn.lock
