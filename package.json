@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/yavinenana.github.io",
+  "homepage": "https://yavinenana.github.io/yavinenana.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
