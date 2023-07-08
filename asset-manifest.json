@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/yavinenana.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/yavinenana.github.io/static/js/main.69041e0e.js",
-    "static/media/logo.svg": "/yavinenana.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/yavinenana.github.io/index.html",
-    "main.073c9b0a.css.map": "/yavinenana.github.io/static/css/main.073c9b0a.css.map",
-    "main.69041e0e.js.map": "/yavinenana.github.io/static/js/main.69041e0e.js.map"
+    "main.css": "/yavinenana/static/css/main.073c9b0a.css",
+    "main.js": "/yavinenana/static/js/main.18cd6dc5.js",
+    "static/media/logo.svg": "/yavinenana/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yavinenana/index.html",
+    "main.073c9b0a.css.map": "/yavinenana/static/css/main.073c9b0a.css.map",
+    "main.18cd6dc5.js.map": "/yavinenana/static/js/main.18cd6dc5.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.69041e0e.js"
+    "static/js/main.18cd6dc5.js"
   ]
 }
